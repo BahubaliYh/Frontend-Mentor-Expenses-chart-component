@@ -1,0 +1,23 @@
+{
+  "name": "expenses-chart-component-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahubaliYh/Frontend-Mentor-Expenses-chart-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BahubaliYh/Frontend-Mentor-Expenses-chart-component/issues"
+  },
+  "homepage": "https://github.com/BahubaliYh/Frontend-Mentor-Expenses-chart-component",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

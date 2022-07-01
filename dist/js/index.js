@@ -29,7 +29,7 @@ const BarData = [
   },
 ]
 
-var svgWidth = 350,
+var svgWidth = 330,
   svgHeight = 200
 var barPadding = 20
 // var barWidth = svgWidth / BarData.length
